@@ -1,5 +1,5 @@
 # Relatório
-## Data: 2024: 2024-09-11
+## Data: 2024-09-11
 ## Autor: Catarina Marantes
 
 ## Resumo
