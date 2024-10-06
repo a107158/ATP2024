@@ -1,7 +1,7 @@
 # Relatório
-## Data: 2024-09-11
+## Data: 2024-10-01
 ## Autor: Catarina Marantes
 
 ## Resumo
 
-O TP1 consistiu na realização de exercícios através do Blocky Games, com especial atenção aos níveis do maze e do turtle.
+O TP4 consistiu na realização de vários exercícios sobre listas.
