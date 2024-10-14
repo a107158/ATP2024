@@ -1,4 +1,4 @@
-# Relatório
+# Relatório do TP2
 ## Data: 2024-09-18
 ## Autor: Catarina Marantes
 
