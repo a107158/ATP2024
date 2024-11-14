@@ -202,7 +202,7 @@ def main():
                 print("Carregue ou insira dados na tabela antes de criar gráficos.")
 
         elif opcao == "0":
-            print("\nSaindo da aplicação...")
+            print("Até à próxima!")
             return
 
         else:
