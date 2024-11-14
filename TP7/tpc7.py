@@ -206,8 +206,6 @@ def main():
             return
 
         else:
-            print("Opção inválida. Tente novamente.")
-
-tabMeteo = [((2022,1,20), 2, 16, 0),((2022,1,21), 1, 13, 0.2), ((2022,1,22), 7, 17, 0.01)]  
+            print("Opção inválida. Tente novamente.") 
         
 main()
