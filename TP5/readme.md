@@ -5,6 +5,6 @@
 ## Resumo
 O TP5 consistiu na realização de vários exercícios sobre listas, listas de listas e listas de tuplos.
 
-Esta aula foi essencialmente dedicada a exercícios sobre polínomios, onde foi necessário recorrer a tuplos e listas de tuplos.
+Deste modo, realizamos alguns exercícios como ordenar uma lista, dar split numa lista, sendo o mais complexo o exercício sobre os parques de estacionamente do Continente. 
 
-Para além disso, trabalhamos na abertura de ficheiros bem como na sua leitura do mesmo; quer linha a linha, quer a totalidade do conteúdo do ficheiro.
+O trabalho de casa desta semana era similar ao exercício anteriormente referido, no entanto, trata-se da gestão de salas de cinema invês de parques de estacionamento.
